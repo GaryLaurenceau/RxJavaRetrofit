@@ -44,7 +44,7 @@ apply plugin: 'me.tatarka.retrolambda'
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.android.support:appcompat-v7:23.1.1'
     // Retrofit request library
     compile 'com.squareup.retrofit2:retrofit:2.0.0-beta3'
     // A converter which uses Gson for serialization to and from JSON.
