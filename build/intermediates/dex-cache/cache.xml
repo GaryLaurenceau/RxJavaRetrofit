@@ -1,2 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/gary/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta3/8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2/converter-gson-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta3_75b48c4d610b90f81aed356eac3167bd3e9701fa.jar" />
+    </item>
+    <item
+        jar="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_817174157467d980bc17303cf1293ddde4b836bc.jar" />
+    </item>
+    <item
+        jar="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1b9f42839e14e90feff124bb9465a6b09ac12b07.jar" />
+    </item>
+    <item
+        jar="/Users/gary/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/rxjava-1.1.0_8e9b10d3e736002d421527f9b2f42dff18303293.jar" />
+    </item>
+    <item
+        jar="/Users/gary/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0-beta3/b2c9a66010be6540ee42c033de4ae43085dc7856/adapter-rxjava-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b2c9a66010be6540ee42c033de4ae43085dc7856">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta3_0b1ad439dc552912ff490655ff3d27368fd8969c.jar" />
+    </item>
+    <item
+        jar="/Users/gary/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.0-RC1/be7e96331952019f16dc52dce09ab25df29353d7/okhttp-3.0.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/okhttp-3.0.0-RC1_6ae1c419c281233de250ee2434cee5e6dbdb0b30.jar" />
+    </item>
+    <item
+        jar="/Users/gary/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/gson-2.4_93965ec9e80b339cd606b93b60ea4b9ab18ea0a8.jar" />
+    </item>
+    <item
+        jar="/Users/gary/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta3/97675641051febfee098903cc0eff62f2826e34e/retrofit-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97675641051febfee098903cc0eff62f2826e34e">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta3_1cd508fc023eb6f65678e60dcea58a179719b949.jar" />
+    </item>
+    <item
+        jar="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_330be2a0be41289d0761f5f7486b97b1a2255832.jar" />
+    </item>
+    <item
+        jar="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_75cde455da918a4da679f576b7fc90fb98192940.jar" />
+    </item>
+    <item
+        jar="/Users/gary/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/okio-1.6.0_a759b6cdb143e5ce2b78db5fe6cebe1a012d295f.jar" />
+    </item>
+    <item
+        jar="/Users/gary/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/gary/AndroidStudioProjects/RxJavaRetrofit/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_a2a1c6e20f37775c48bf0a4ed2dc9f9e681fd0a1.jar" />
+    </item>
+
+</items>
