@@ -17,5 +17,5 @@ before_install:
   - jdk_switcher use oraclejdk8
  
 script:
-  - ./gradlew build
-  
+  - ./gradlew --stacktrace --info --continue app:assembleDebug
+
